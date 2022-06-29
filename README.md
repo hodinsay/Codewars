@@ -1,1 +1,1 @@
-# Daily-Codewars
+# Codewars
